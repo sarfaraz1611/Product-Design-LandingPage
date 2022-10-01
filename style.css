@@ -226,8 +226,6 @@ font-size: 20px
     .mwidth{
         display: flex;
         align-items: center;
-        justify-content: center;
-        width: 400px;
         height: 250px;
         background-color: rgb(27, 25, 25);
     }
@@ -312,12 +310,11 @@ font-size: 20px
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        background-color: rgb(27, 25, 25);
+        background-color: rgb(27, 25, 26);
         padding: 10px;
         margin: 10px 95px;
     }
     .left h1{
-    
         font-weight: 700;
         font-size: 32px;
     }
